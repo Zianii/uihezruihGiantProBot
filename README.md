@@ -1,1 +1,2 @@
-# uihezruihGiantProBot
+# Probot ✨
+Epic Discord Bot
